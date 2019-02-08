@@ -3,3 +3,4 @@ they told me to do that (LOL)
 This is a new line
 Last line
 Last last line
+Git is good
